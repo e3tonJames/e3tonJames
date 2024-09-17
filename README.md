@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### I'm James, I use he/him/his pronouns
+I am a BS Information Technology and Cybersecutity student studying at the University of Southern Maine
 
 <!--
 **e3tonJames/e3tonJames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
