@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm James, I use he/him/his pronouns
-I am a BS Information Technology and Cybersecutity student studying at the University of Southern Maine
+I am a Bacholors of Science student studying Information Technology
 
 
 <!--
