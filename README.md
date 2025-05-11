@@ -1,6 +1,5 @@
-## Hi there 👋
-### I'm James, I use he/him/his pronouns
-I am a Bacholors of Science student studying Information Technology
+# Hi! I'm James!
+
 
 
 <!--
