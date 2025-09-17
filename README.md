@@ -1,5 +1,7 @@
 # Hi! I'm James!
 
+## I am a college graduate with a BS in Information Technology.
+
 
 
 <!--
