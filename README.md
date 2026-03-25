@@ -1,7 +1,11 @@
 # Hi! I'm James!
+- 😋 Pronouns: he/him
+- 👾 Sandbox Gamer *(Astroneer & Minecraft)*
 
-## BS in Information Technology.
 
+## I have a BS in Information Technology.
+- Specialties: Networking, Access Control, and Design
+- Programming Languages that I like: Python, Java, Swift, C, & C++
 
 
 <!--
