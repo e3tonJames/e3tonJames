@@ -1,6 +1,5 @@
 # Hi! I'm James!
-- 😋2 Pronouns: he/him
-- 👾 Sandbox Gamer *(Astroneer & Minecraft)*
+- Sandbox Gamer *(Astroneer & Minecraft)*
 
 
 ## BS in Information Technology.
